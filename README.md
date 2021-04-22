@@ -11,4 +11,4 @@ A comparison of the heights of towers in 5 districts in Kochi and Mumbai
 4.cufflinks
 </pre>
  
-**To interact with/view the plots, visit --> https://nbviewer.jupyter.org/github/G-M-C/Tower-Comparison/blob/main/Buildings.ipynb**
+**To interact with / view the plots, visit --> https://nbviewer.jupyter.org/github/G-M-C/Tower-Comparison/blob/main/Buildings.ipynb**
